@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#141414"
+        android:pathData="M24,24m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0"
+        android:strokeWidth="2"
+        android:strokeColor="#FF0000" />
+    <!-- Wooden bat held on right -->
+    <path
+        android:fillColor="#A0622C"
+        android:pathData="M34.5,14l3.5,1.2l-3.5,15.5l-2.5,-0.5z" />
+    <!-- Tung Tung Sahur cylindrical wooden log body -->
+    <path
+        android:fillColor="#B87333"
+        android:pathData="M16,12c0,-1.8 3.6,-3 8,-3s8,1.2 8,3v21c0,1.8 -3.6,3 -8,3s-8,-1.2 -8,-3z" />
+    <!-- Top wood grain ellipse -->
+    <path
+        android:fillColor="#D99B58"
+        android:pathData="M24,12m-8,0a8,2.6 0,1 1,16 0a8,2.6 0,1 1,-16 0" />
+    <!-- Wood bark lines -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M18.5,27v6M29.5,26v7"
+        android:strokeWidth="1.2"
+        android:strokeColor="#7A4519"
+        android:strokeLineCap="round" />
+    <!-- Funny big wide eyes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20.3,19.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27.7,19.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20.6,19.6m-1.1,0a1.1,1.1 0,1 1,2.2 0a1.1,1.1 0,1 1,-2.2 0" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M27.4,19.6m-1.1,0a1.1,1.1 0,1 1,2.2 0a1.1,1.1 0,1 1,-2.2 0" />
+    <!-- Funny grin -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M20,24.5c2,1.8 6,1.8 8,0"
+        android:strokeWidth="1.8"
+        android:strokeColor="#2A1205"
+        android:strokeLineCap="round" />
+    <!-- Little legs -->
+    <path
+        android:fillColor="#8C5220"
+        android:pathData="M19,35.5h3v4h-3zM26,35.5h3v4h-3z" />
+</vector>

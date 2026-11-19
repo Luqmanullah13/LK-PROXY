@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#141414"
+        android:pathData="M24,24m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0"
+        android:strokeWidth="2"
+        android:strokeColor="#FF0000" />
+    <!-- Face -->
+    <path
+        android:fillColor="#F0C8A8"
+        android:pathData="M24,12c-5.5,0 -9.5,4.2 -9.5,10v5c0,5 4.2,9 9.5,9s9.5,-4 9.5,-9v-5C33.5,16.2 29.5,12 24,12z" />
+    <!-- Grey side hair -->
+    <path
+        android:fillColor="#D9D9DF"
+        android:pathData="M13.5,18c0,-4.5 4.5,-7.5 10.5,-7.5s10.5,3 10.5,7.5c-1.5,-1.8 -3.5,-2.5 -5,-2.5c-3.5,-1.5 -7.5,-1.5 -11,0C17,15.5 15,16.2 13.5,18z" />
+    <!-- Glasses -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M16.5,20.5h5.5v4h-5.5zM26,20.5h5.5v4h-5.5zM22,22.2h4"
+        android:strokeWidth="1.6"
+        android:strokeColor="#FF0000" />
+    <!-- White beard & mustache -->
+    <path
+        android:fillColor="#F2F2F7"
+        android:pathData="M15,26c0,6 4,11 9,11s9,-5 9,-11c-2.5,1.5 -5,2.2 -9,2.2S17.5,27.5 15,26z" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M21,29.5h6"
+        android:strokeWidth="1.5"
+        android:strokeColor="#555555"
+        android:strokeLineCap="round" />
+</vector>

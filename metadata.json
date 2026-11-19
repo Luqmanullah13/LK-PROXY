@@ -1,0 +1,6 @@
+{
+  "name": "LK Proxy",
+  "description": "Legal game performance booster, real-time network speed monitor, and floating utility overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
